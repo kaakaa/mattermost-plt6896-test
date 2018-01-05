@@ -1,0 +1,14 @@
+{
+  "name": "hoge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "isomorphic-fetch": "^2.2.1",
+    "mattermost-redux": "mattermost/mattermost-redux#a713bf8e15d27720587053ecb02deea8390fd268"
+  },
+  "scripts": {
+    "run": "node index.js"
+  }
+}
